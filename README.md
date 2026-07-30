@@ -15,6 +15,8 @@
 
 [📖 How it works](#-how-it-works--كيف-يعمل) · [⚠️ Honest Limitations](#-honest-limitations--محدوديات-صادقة) · [🚀 Quick Start](#-quick-start--البدء-السريع) · [⭐ Star on GitHub](https://github.com/eahmeddarwish/smart-parking-system)
 
+![Smart Parking System](docs/smart-parking.png)
+
 </div>
 
 ---
